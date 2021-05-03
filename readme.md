@@ -10,6 +10,15 @@ file<br>
 and you can use the outputted html file
 in your website<br>
 
+# kat.ps1
+
+kat.ps1 is used in the PowerShell<br>
+to compile cat file's to html<br>
+without needing to run the compiler.py<br>
+file<br>
+here's the PowerShell syntax<br>
+kat \*compiler.py directory\* \*file\*
+
 # info
 
 kittycatdog version: 1.0<br>
