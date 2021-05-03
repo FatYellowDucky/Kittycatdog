@@ -1,2 +1,3 @@
-﻿$x=$args[0]
-python c:/Users/Utente/OneDrive/github/html-hard-api/compiler.py $x
+﻿$x=$args[1]
+$y=$args[0]
+python $y+'/compiler.py' $x
