@@ -1,0 +1,7 @@
+style:{ style.css }
+script:{ js.js }
+class div_class_name
+    p: 'string'
+class-end
+input:button=>{ text 'string' }:br>
+input:textbox=>{ id name }:br>
